@@ -1,5 +1,5 @@
 # PyRecker
-Simple python script to spam web requests
+A simple python script to spam web requests
 
 # Instructions
 ### (Only tested on windows but it definitely works on everything else)
